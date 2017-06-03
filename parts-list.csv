@@ -1,0 +1,10 @@
+ALU Parts List,,,,,
+Part Name,Count,Unit Price,Total Price,,Total Price of ALL Materials
+LED (yellow),8,$0.20,$1.60,,$9.87
+"Pin header, 1x8",3,$0.86,$2.58,,
+20 Pin DIP socket,1,$0.24,$0.24,,
+16 Pin DIP socket,2,$0.18,$0.36,,
+14 Pin DIP socket,2,$0.21,$0.42,,
+74LS283 (4-bit adder),2,$1.38,$2.76,,
+74LS86 (XOR),2,$0.52,$1.04,,
+74LS245 (bus transceiver),1,$0.87,$0.87,,
